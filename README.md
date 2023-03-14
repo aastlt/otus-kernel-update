@@ -1,7 +1,7 @@
 # otus-kernel-update
 Обновление ядра ОС и создание образа для vagrant
 
-Ссылка на готовый образ в Vagrantcloud
+Ссылка на готовый образ в Vagrantcloud:
 
 https://app.vagrantup.com/aastlt/boxes/centos7-new-cernel
 
